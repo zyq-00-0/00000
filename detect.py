@@ -11,7 +11,7 @@ if __name__ == '__main__':
     model.predict(source='ce',
                   imgsz=640,
                   project='runs/detect/1',
-                  name='DBBNCSPELAN',
+                  name='yolo11-C3k2-Star-CAA',
                   save=True,
                   # conf=0.2,
                   # iou=0.7,
